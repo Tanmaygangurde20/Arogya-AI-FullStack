@@ -29,7 +29,7 @@ ArogyaAI is an end-to-end platform that leverages artificial intelligence to hel
 - **Data:** CSVs and pickled models for predictions and analytics.
 
 ---
-
+#Live Link : https://arogya-ai-nine.vercel.app/
 # 📦 Project Structure
 ```
 VaccineLedger/
